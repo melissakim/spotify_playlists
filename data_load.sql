@@ -43,10 +43,38 @@ delimiter ',' skip 1 exceptions 'exceptions.csv';
 -- +-------------+
 
 
+--TAIM analysis:
+--Task: 15-20 presentation on what makes a successful playlist 
+--Audience: A panel of 4 team members including 3 data scientists and one Artist and Label Marketing 
+--Intent: explain WHAT components make up a successful playlist and WHY
+--Message: up to me!
 
 
+--data point wishlist:
+--playlist creation date - there may be a ramp-up period for playlists and looking at 
+--success/engagement measures may not be an accurate measure for success for new playlists 
+--followers
 
 
+--open questions / things i'd want to explore:
+--what amout of time is right to determine when it's the right time to evaluate whether 
+--a user's playlist is successful?
+--what is the play rate by the playlist's visibility? (i.e. spotify playlists have more
+--exposure/impressions than individual playlists )
+--other markets (this is us only, but would love to understand what diff markets' successful
+--playlists look like)
+
+
+--initial thoughts on success measures:
+--engagement/activity: avg streams per user today, avg streams per user this month
+--consistency/stickiness: do users vary wildly, or are they pretty consistent? if it varies, is it growing?
+--consumption: are most of the tracks being listened to / are the tracks being listened to?
+
+/* 
+popularity: streams30, monthly_stream30s by decile 
+relevance: stream30s/streams
+consistency: dau/mau, dau/wau, 
+*/
 
 
 
